@@ -1,7 +1,7 @@
 import { Button, Typography } from "@mui/material";
 import { GetServerSidePropsContext } from "next";
 import { FC } from "react";
-import StyledEmotionButton from "../components/EmotionButton";
+import StyledEmotionButton from "../components/StyledEmotionButton";
 
 const SSRPage: FC = () => {
   return (
